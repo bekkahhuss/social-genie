@@ -35,4 +35,5 @@ Watch this [demo video](https://github.com/bekkahhuss/social-genie/blob/main/ass
 - Mongoose ODM
 
 ## Images
-![Example Image]()
+![](https://github.com/bekkahhuss/social-genie/blob/main/assets/social-genie-getAllUsers.png)
+![](https://github.com/bekkahhuss/social-genie/blob/main/assets/social-genie-getAllThoughts.png)
