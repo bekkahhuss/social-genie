@@ -4,7 +4,7 @@
 
 This application uses a NoSQL database to create an API that holds the user accounts and thoughts posted on the Social Genie Network. Users can share thoughts, add friends and react to other users thoughts. This version of of social-genie has the ability to start the server and and sync Mongoose models to the MongoDB database. 
 
-Watch this [demo video](https://github.com/bekkahhuss/social-genie/blob/main/assets/social-genie%20video%20.mp4) for the current functionality.
+Watch this [demo video](https://github.com/bekkahhuss/social-genie/blob/main/assets/Social%20Genie%20Video.mp4) for the current functionality.
 
  
 
